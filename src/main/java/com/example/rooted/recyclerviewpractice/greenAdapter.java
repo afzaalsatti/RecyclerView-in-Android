@@ -9,7 +9,7 @@ import android.view.ViewGroup;
 import android.widget.TextView;
 
 import java.util.List;
-
+//Hello Example
 public class greenAdapter extends RecyclerView.Adapter<greenAdapter.holder>{
     int count=5;
 private Context mcontext;
